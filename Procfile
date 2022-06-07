@@ -1,2 +1,1 @@
-web: api.py
-worker: api.py
+web: gunicorn api:app --log-file
