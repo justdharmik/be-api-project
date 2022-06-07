@@ -1,8 +1,12 @@
+beautifulsoup4==4.11.1
+charset-normalizer==2.0.12
 deep-translator==1.8.3
-Flask==2.1.2
 easyocr==1.5.0
-opencv-python==4.5.5.64
--f https://download.pytorch.org/whl/torch_stable.html 
-torch==1.11.0+cpu 
+idna==3.3
+imageio==2.19.3
+networkx==2.8.3
+opencv-python-headless==4.5.4.60
+requests==2.27.1
+scikit-image==0.19.2
 -f https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.12.0+cpu
