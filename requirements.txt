@@ -1,5 +1,6 @@
 beautifulsoup4==4.11.1
 flask==2.1.2
+Flask-Cors==3.0.10
 charset-normalizer==2.0.12
 gunicorn==20.1.0
 deep-translator==1.8.3
